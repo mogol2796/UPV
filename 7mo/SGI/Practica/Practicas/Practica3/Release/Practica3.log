@@ -1,0 +1,27 @@
+﻿  Ejercicio1Seminario.cpp
+  EjercicioPractica.cpp
+C:\UPV\SGI\Practica\Practicas\Practica3\EjercicioPractica.cpp(18,22): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\UPV\SGI\Practica\Practicas\Practica3\EjercicioPractica.cpp(40,30): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\UPV\SGI\Practica\Practicas\Practica3\EjercicioPractica.cpp(40,18): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\UPV\SGI\Practica\Practicas\Practica3\EjercicioPractica.cpp(42,30): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\UPV\SGI\Practica\Practicas\Practica3\EjercicioPractica.cpp(42,18): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\UPV\SGI\Practica\Practicas\Practica3\EjercicioPractica.cpp(44,30): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\UPV\SGI\Practica\Practicas\Practica3\EjercicioPractica.cpp(44,18): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\UPV\SGI\Practica\Practicas\Practica3\EjercicioPractica.cpp(46,30): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\UPV\SGI\Practica\Practicas\Practica3\EjercicioPractica.cpp(46,18): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\UPV\SGI\Practica\Practicas\Practica3\EjercicioPractica.cpp(53,30): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\UPV\SGI\Practica\Practicas\Practica3\EjercicioPractica.cpp(53,18): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\UPV\SGI\Practica\Practicas\Practica3\EjercicioPractica.cpp(55,30): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\UPV\SGI\Practica\Practicas\Practica3\EjercicioPractica.cpp(55,18): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\UPV\SGI\Practica\Practicas\Practica3\EjercicioPractica.cpp(57,30): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\UPV\SGI\Practica\Practicas\Practica3\EjercicioPractica.cpp(57,18): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\UPV\SGI\Practica\Practicas\Practica3\EjercicioPractica.cpp(59,30): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\UPV\SGI\Practica\Practicas\Practica3\EjercicioPractica.cpp(59,18): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\UPV\SGI\Practica\Practicas\Practica3\EjercicioPractica.cpp(88,23): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\UPV\SGI\Practica\Practicas\Practica3\EjercicioPractica.cpp(112,1): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  Source.cpp
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+  All 23 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  Practica3.vcxproj -> C:\UPV\SGI\Practica\Practicas\Practica3\Practica3.exe

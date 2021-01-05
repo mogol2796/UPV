@@ -1,0 +1,16 @@
+﻿  Practica6Interaccion.cpp
+C:\UPV\SGI\Practica\Utilidades.h(29,44): warning C4305: 'inicializando': truncamiento de 'double' a 'const GLfloat'
+C:\UPV\SGI\Practica\Utilidades.h(30,45): warning C4305: 'inicializando': truncamiento de 'double' a 'const GLfloat'
+C:\UPV\SGI\Practica\Utilidades.h(35,57): warning C4305: 'inicializando': truncamiento de 'double' a 'const GLfloat'
+C:\UPV\SGI\Practica\Utilidades.h(36,57): warning C4305: 'inicializando': truncamiento de 'double' a 'const GLfloat'
+C:\UPV\SGI\Practica\Utilidades.h(38,54): warning C4305: 'inicializando': truncamiento de 'double' a 'const GLfloat'
+C:\UPV\SGI\Practica\Utilidades.h(252,37): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\UPV\SGI\Practica\Practicas\Practica6\Practica6Interaccion.cpp(20,29): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\UPV\SGI\Practica\Practicas\Practica6\Practica6Interaccion.cpp(22,26): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\UPV\SGI\Practica\Practicas\Practica6\Practica6Interaccion.cpp(101,1): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  Generando código
+  6 of 23 functions (26.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  Practica6.vcxproj -> C:\UPV\SGI\Practica\Practicas\Practica6\Practica6.exe

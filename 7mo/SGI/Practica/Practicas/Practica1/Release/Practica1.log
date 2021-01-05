@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\UPV\SGI\Practica\Practicas\Practica1\Source.cpp(24,1): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+  All 15 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  Practica1.vcxproj -> C:\UPV\SGI\Practica\Practicas\Release\Practica1.exe

@@ -1,0 +1,11 @@
+﻿  SeminarioEjer1.cpp
+  SeminarioEjer2.cpp
+  SeminarioEjer3.cpp
+  SeminarioEjer4.cpp
+C:\UPV\SGI\Practica\Practicas\Practica4\SeminarioEjer4.cpp(63,1): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  SeminarioEjercicio.cpp
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+  All 15 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  Practica4.vcxproj -> C:\UPV\SGI\Practica\Practicas\Practica4\Practica4.exe
